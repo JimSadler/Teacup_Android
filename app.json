@@ -20,6 +20,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "facebookScheme": "fb1312596802182794",
+    "facebookAppId": "1312596802182794",
+    "facebookDisplayName": "Teacup Prophecies",
     "ios": {
       "supportsTablet": true
     }
